@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ayoung Kim who is interested in Web from South Korea.
+I am ayoungkim who is interested in Web from South Korea.
 
 <!--
 **Kim-AYoung/Kim-AYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
