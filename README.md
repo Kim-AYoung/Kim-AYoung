@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am ayoungkim who is interested in Web from South Korea.
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=onionlily123&color=dark)](https://github.com/onionlily123/velog-readme-stats)
 <!--
 **Kim-AYoung/Kim-AYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
