@@ -13,7 +13,7 @@ I'm ayoungkim who is interested in web from South Korea. <br /><br />
 \- Double Major : Computer Science and Engineering (CSE)
 
 ## ✍ My Tech Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=onionlily123&color=dark)](https://velog.io/@onionlily123)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=onionlily123)](https://velog.io/@onionlily123)
 
 ## 🔨 Technology Stacks
 ### Backend
